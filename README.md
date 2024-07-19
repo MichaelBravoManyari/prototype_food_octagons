@@ -27,11 +27,6 @@
 
 *Prototype Installed in Trash Can*
 
-### Videos
-
-- **Prototype Functionality with App**: Demonstrates the prototype's operation with the app.
-- **Prototype Installation**: Shows the installation process of the prototype.
-
 ## Architecture
 
 The prototype's architecture follows modular design principles to ensure scalability and maintainability. The key modules are:
