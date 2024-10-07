@@ -23,9 +23,11 @@
 
 *Prototype Compartments*
 
+![Installed Prototype](screenshots/installed_prototype.jpg)
+
 *Prototype Installed in Trash Can*
 
-[![Demo](screenshots/installed_prototype.jpg)](https://vimeo.com/1016898002)
+[Demo video](https://vimeo.com/1016898002)
 
 ## Architecture
 
