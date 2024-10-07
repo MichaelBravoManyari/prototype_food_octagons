@@ -27,6 +27,8 @@
 
 *Prototype Installed in Trash Can*
 
+![Demo](https://vimeo.com/1016898002)
+
 ## Architecture
 
 The prototype's architecture follows modular design principles to ensure scalability and maintainability. The key modules are:
