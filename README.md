@@ -27,7 +27,7 @@
 
 *Prototype Installed in Trash Can*
 
-![Demo](https://vimeo.com/1016898002)
+[Demo](https://vimeo.com/1016898002)
 
 ## Architecture
 
